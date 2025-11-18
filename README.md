@@ -1,4 +1,5 @@
-# FFmpeg_SCTE35
+# SCTE35-ffmpeg-Kabuki
+
 ffmpeg with the SuperKabuki SCTE-35 pass through patch applied.
 # FFmpeg with the SuperKabuki SCTE-35 patch applied.
 
